@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Jinglin Jian (简靖琳), a first-year Master's student in **Information Sciences** at UIUC. Since the fall of 2023, I had the oppotunity to work with Professor [Haohan Wang](https://haohanwang.github.io/) at UIUC. I hold a B.S. in Educational Technology from Beijing Normal University, where I contributed as a research assistant in Professor [Jingjing Zhang](https://scholar.google.com/citations?user=TJxt0-0AAAAJ&hl=en)'s lab. Also, I earned a double bachelor's degree in Economics from Peking University.
+Hi there! I'm Jinglin Jian (简靖琳), a first-year master's student in **Information Sciences** at UIUC. Since the fall of 2023, I had the oppotunity to work with Professor [Haohan Wang](https://haohanwang.github.io/) at UIUC. I hold a B.S. in Educational Technology from Beijing Normal University, where I contributed as a research assistant in Professor [Jingjing Zhang](https://scholar.google.com/citations?user=TJxt0-0AAAAJ&hl=en)'s lab. Also, I earned a double bachelor's degree in Economics from Peking University.
 
 I'm currently pursuing a PhD admission opportunity. My academic interests lie in **natural language processing** and **intelligent agents**, particularly in creating **human-centered AI**.
 
@@ -28,7 +28,7 @@ table, td, th, tr {
 <a href='https://arxiv.org/abs/2402.12391'><button class="paper-btn">PAPER</button></a> 
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
-<!-- <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Prejudice-Caprice Framework comprehensively measures discrimination in models by considering both their consistently biased preference and preference variation across diverse contexts.</em> -->
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">To address the demanding workload of scientific data analytics, we introduce the Team of AI-made Scientists (TAIS), designed to streamline the scientific discovery pipeline. TAIS consists of simulated roles, including a project manager, data engineer, and domain expert, each represented by a Large Language Model (LLM).</em>
 </div>
 </div>
 
@@ -55,11 +55,9 @@ table, td, th, tr {
 <br>
 <a href='https://JianJinglin.github.io/files/2021eduKG.pdf'><button class="paper-btn">PDF</button></a>
 <br>
-<!-- <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;"></em> -->
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">An interactive system was designed and implemented, enabling domain experts to collaborate with AI models to create educational knowledge graphs (KG) from unstructured text (i.e. lecture transcripts).</em>
 </div>
 </div>
-
-
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop 2024</div><img src='/images/Wizard-agent.png' alt="yang2024llm" width="100%"></div></div>
