@@ -28,7 +28,7 @@ table, td, th, tr {
 <a href='https://arxiv.org/abs/2402.12391'><button class="paper-btn">PAPER</button></a> 
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">To address the demanding workload of scientific data analytics, we introduce the Team of AI-made Scientists (TAIS), designed to streamline the scientific discovery pipeline. TAIS consists of simulated roles, including a project manager, data engineer, and domain expert, each represented by a Large Language Model (LLM).</em>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">To address the demanding workload of scientific data analysis, we introduce the Team of AI-made Scientists (TAIS), designed to streamline the scientific discovery pipeline. TAIS consists of simulated roles, including a project manager, data engineer, and domain expert, each represented by a Large Language Model (LLM).</em>
 </div>
 </div>
 
