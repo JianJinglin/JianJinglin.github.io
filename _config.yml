@@ -12,7 +12,7 @@ title                    : "Jinglin Jian"
 title_separator          : "-"
 name                     : &name "Jinglin Jian"
 description              : &description "IS Master's Student at UIUC."
-url                      : https://JianJinglin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://JianJinglin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JianJinglin/JianJinglin.github.io"
 
