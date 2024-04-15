@@ -67,4 +67,4 @@ table, td, th, tr {
 ------
 Although I was born and raised in Shanghai, China, my true origins trace back to a serene and lesser-known village in Anhui. It's there that my family is the proud custodian of a golden paddy field and a haven for wild geese!
 
-I am an amateur novelist, [painter](/images/hey_you.jpg), and photographer. I take photos of [cats](/images/cat.jpg), [my sister](/images/my_cool_sister.jpg), [grandparents](/images/my_grandparents.jpg), [friends](/images/on_my_21th_birthday.png), [campus](/images/campus.png), etc., in my spare time. -->
+I am an amateur novelist, [painter](/images/hey_you.jpg), and photographer. I take photos of [cats](/images/cat.jpg), [my sister](/images/my_cool_sister.jpg), [grandparents](/images/my_grandparents.jpg), [friends](/images/on_my_21th_birthday.png), [campus](/images/campus.png), etc., in my spare time. -->t
