@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! I'm Jinglin Jian (简靖琳), a first-year Master's student in **Information Sciences** at UIUC. Since the fall of 2023, I had the oppotunity to work with Professor [Haohan Wang](https://haohanwang.github.io/) at UIUC. I hold a B.S. in Educational Technology from Beijing Normal University, where I contributed as a research assistant in Professor [Jingjing Zhang](https://scholar.google.com/citations?user=TJxt0-0AAAAJ&hl=en)'s lab. Also, I earned a double bachelor's degree in Economics from Peking University.
 
-I'm currently pursuing a Ph.D. oppotunity. My academic interests are in **natural language processing** and **intelligent agents**, especially in creating **human-centered AI**.
+I'm currently pursuing a PhD admission opportunity. My academic interests lie in **natural language processing** and **intelligent agents**, particularly in creating **human-centered AI**.
 
 <style>
 table, td, th, tr {
@@ -47,16 +47,20 @@ table, td, th, tr {
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Assistant</div><img src='/images/2021eduKG.png' alt="2021eduKG" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bachelor’s Thesis</div><img src='/images/2021eduKG.png' alt="2021eduKG" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>Semi-automatic Knowledge Graph Construction</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;">Bachelor's Thesis: Jinglin Jian</span>
+<span style="font-family: Georgia, serif; font-size: smaller;">Jinglin Jian (Advisor: Prof. Qinhua Zheng)</span>
 <br>
 <a href='https://JianJinglin.github.io/files/2021eduKG.pdf'><button class="paper-btn">PDF</button></a>
 <br>
 <!-- <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;"></em> -->
 </div>
 </div>
+
+
+
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop 2024</div><img src='/images/Wizard-agent.png' alt="yang2024llm" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
