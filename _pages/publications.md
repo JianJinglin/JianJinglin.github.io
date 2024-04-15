@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Intelligent Agents
 
-Liu, H., Li, Y., **Jian, J.**, Cheng, Y., Lu, J., Guo, S., ... & Wang, H. (2024). Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data. <i>arXiv preprint arXiv:2402.12391. </i> Full text available at [here](https://arxiv.org/abs/2402.12391)</a>
+Liu, H., Li, Y., **Jian, J.**, Cheng, Y., Lu, J., Guo, S., ... & Wang, H. (2024). Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data. <i>arXiv preprint arXiv:2402.12391. </i> Full text available at [here](https://arxiv.org/abs/2402.12391)
 
 <!-- 
 {% if site.author.googlescholar %}
