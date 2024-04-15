@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download CV here](https://JianJinglin.github.io/files/cv.pdf)
+Updated on 4/15/2024.
+
+
+<!-- 
+{% include base_path %}
 
 Education
 ======
@@ -61,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
