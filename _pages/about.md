@@ -31,6 +31,32 @@ table, td, th, tr {
 <!-- <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Prejudice-Caprice Framework comprehensively measures discrimination in models by considering both their consistently biased preference and preference variation across diverse contexts.</em> -->
 </div>
 </div>
+
+
+<h2><span>Selected Projects</span></h2>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Assistant</div><img src='/images/2020hypervideo.png' alt="2020hypervideo" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>The Impact of Productive Failure on Learning Performance and Cognitive Load: Using Hypervideo to Facilitate Online Interactions</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;">Xiaojie Niu, Jingjing Zhang, Kate M. Xu, Xuan Wang</span>
+<br>
+<a href='https://ieeexplore.ieee.org/document/9499919/authors#authors'><button class="paper-btn">PAPER</button></a> 
+<!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
+<br>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Productive failure is an instructional approach that uses students' cognitive conflicts to enhance their learning. This experimental study investigated the effect of productive failure in a hypervideo environment.</em>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Assistant</div><img src='/images/2021eduKG.png' alt="2021eduKG" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>Semi-automatic Knowledge Graph Construction</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;">Bachelor's Thesis: Jinglin Jian</span>
+<br>
+<a href='https://JianJinglin.github.io/files/2021eduKG.pdf'><button class="paper-btn">PDF</button></a>
+<br>
+<!-- <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;"></em> -->
+</div>
+</div>
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop 2024</div><img src='/images/Wizard-agent.png' alt="yang2024llm" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
