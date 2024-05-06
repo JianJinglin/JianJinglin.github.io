@@ -21,10 +21,10 @@ repository               : "JianJinglin/JianJinglin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Jinglin Jian"
   pronouns         : # example: "she/her"  
-  bio              : "IS master's student at UIUC.\n Alumni @PKU @BNU."
+  bio              : "IS master's student at UIUC. \n Alumni @PKU @BNU."
   location         : "IL, US"
   employer         : #"University of Illinois Urbana-Champaign"
   uri              : # URL
