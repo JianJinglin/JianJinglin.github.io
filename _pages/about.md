@@ -40,7 +40,7 @@ table, td, th, tr {
 <h3>The Impact of Productive Failure on Learning Performance and Cognitive Load: Using Hypervideo to Facilitate Online Interactions</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;">Xiaojie Niu, Jingjing Zhang, Kate M. Xu, Xuan Wang</span>
 <br>
-<a href='https://ieeexplore.ieee.org/document/9499919/authors#authors'><button class="paper-btn">PAPER</button></a> 
+<a href='https://ieeexplore.ieee.org/document/9499919'><button class="paper-btn">PAPER</button></a> 
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Productive failure is an instructional approach that uses students' cognitive conflicts to enhance their learning. This experimental study investigated the effect of productive failure in a hypervideo environment.</em>
