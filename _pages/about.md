@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Jinglin Jian (简靖琳), a first-year master's student in **Information Sciences** at UIUC. Since the fall of 2023, I had the oppotunity to work with Professor [Haohan Wang](https://haohanwang.github.io/) at UIUC. I hold a B.S. in Educational Technology from Beijing Normal University, where I contributed as a research assistant in Professor [Jingjing Zhang](https://scholar.google.com/citations?user=TJxt0-0AAAAJ&hl=en)'s lab. Also, I earned a double bachelor's degree in Economics from Peking University.
+Hi there! I'm Jinglin Jian (简靖琳), a first-year master's student in **Information Sciences** at **UIUC**. Since the fall of 2023, I had the oppotunity to work with Professor [Haohan Wang](https://haohanwang.github.io/) at UIUC. I hold a B.S. in Educational Technology from **Beijing Normal University**, where I contributed as a research assistant in Professor [Jingjing Zhang](https://scholar.google.com/citations?user=TJxt0-0AAAAJ&hl=en)'s lab. Also, I earned a double bachelor's degree in Economics from **Peking University**.
 
 I'm currently pursuing a PhD admission opportunity. My academic interests lie in **natural language processing** and **intelligent agents**, especially in their applications to biology and medicine.
 
