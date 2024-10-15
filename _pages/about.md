@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Jinglin Jian (简靖琳), a first-year master's student in **Information Sciences** at **UIUC**. Since the fall of 2023, I had the oppotunity to work with Professor [Haohan Wang](https://haohanwang.github.io/) at UIUC. I hold a B.S. in Educational Technology from **Beijing Normal University**, where I contributed as a research assistant in Professor [Jingjing Zhang](https://scholar.google.com/citations?user=TJxt0-0AAAAJ&hl=en)'s lab. Also, I earned a double bachelor's degree in Economics from **Peking University**.
+Hi there! I'm Jinglin Jian (简靖琳), a second-year master's student in **Information Sciences** at **UIUC**. Since the fall of 2023, I had the oppotunity to work with Professor [Haohan Wang](https://haohanwang.github.io/) at UIUC. I hold a B.S. in Educational Technology from **Beijing Normal University**, where I contributed as a research assistant in Professor [Jingjing Zhang](https://scholar.google.com/citations?user=TJxt0-0AAAAJ&hl=en)'s lab. Also, I earned a double bachelor's degree in Economics from **Peking University**.
 
-I'm currently pursuing a PhD admission opportunity. My academic interests lie in **natural language processing** and **intelligent agents**, especially in their applications to biology and medicine.
+I'm currently pursuing a PhD admission opportunity. My academic interests lie in AI, especially in applications to healthcare and education.
 
 <style>
 table, td, th, tr {
@@ -19,7 +19,7 @@ table, td, th, tr {
 }
 </style>
 
-<h2><span>Publications</span></h2>
+<h2><span>Publications and Conferences</span></h2>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='/images/TAIS-framework.png' alt="2024tais" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data</h3>
@@ -32,6 +32,19 @@ table, td, th, tr {
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIED 2024</div><img src='/images/2024visual-aid.jpg' alt="2024visual-aid" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>"Which Animal Would You Like to See on Your Flashcards?" Designing Visual Aids Together with Kids Using GIMs</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;"> Yiqi Xiao and <b>Jinglin Jian</b></span>
+<br>
+<!-- <a href='https://arxiv.org/abs/2402.12391'><button class="paper-btn"></button></a>  -->
+<br>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">
+Visual aids enhance children's learning. Educational theories emphasize student agency, but involving children's preferences in designing materials is challenging. We developed an interactive learning content designer that allows students to choose their favorite animals and colors for flashcards, while educators add academic content, balancing student engagement with educational goals. This can be a novel and promising paradigm for instructional design, especially for children with autism.
+</em>
+</div>
+</div>
+
 
 <h2><span>Selected Projects</span></h2>
 
@@ -41,7 +54,6 @@ table, td, th, tr {
 <span style="font-family: Georgia, serif; font-size: smaller;">Xiaojie Niu, Jingjing Zhang, Kate M. Xu, Xuan Wang</span>
 <br>
 <a href='https://ieeexplore.ieee.org/document/9499919'><button class="paper-btn">PAPER</button></a> 
-<!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Productive failure is an instructional approach that uses students' cognitive conflicts to enhance their learning. This experimental study investigated the effect of productive failure in a hypervideo environment.</em>
 </div>
