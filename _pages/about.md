@@ -37,7 +37,7 @@ table, td, th, tr {
 <h3>"Which Animal Would You Like to See on Your Flashcards?" Designing Visual Aids Together with Kids Using GIMs</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;"> Yiqi Xiao and <b>Jinglin Jian</b></span>
 <br>
-<!-- <a href='https://arxiv.org/abs/2402.12391'><button class="paper-btn"></button></a>  -->
+<a href='https://visual-aid-2165b82d929e.herokuapp.com/'><button class="paper-btn">Visual-aid Website</button></a> 
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">
 Visual aids enhance children's learning. Educational theories emphasize student agency, but involving children's preferences in designing materials is challenging. We developed an interactive learning content designer that allows students to choose their favorite animals and colors for flashcards, while educators add academic content, balancing student engagement with educational goals. This can be a novel and promising paradigm for instructional design, especially for children with autism.
