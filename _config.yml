@@ -21,7 +21,7 @@ repository               : "JianJinglin/JianJinglin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile3.png"
+  avatar           : "profile1.png"
   name             : "Jinglin Jian"
   pronouns         : # example: "she/her"  
   bio              : "IS Master's student at UIUC.\nAlumni @PKU @BNU."
