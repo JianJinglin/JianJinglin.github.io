@@ -18,7 +18,7 @@ table, td, th, tr {
 
 <h2><span>Publications and Conferences</span></h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ML for Bioinformatics workshop</div><img src='/images/2024geocm.png' alt="2024geocm" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CS582 ML for Bioinformatics Workshop</div><img src='/images/2024geocm.png' alt="2024geocm" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>GeoCM: Exploring Consistency Models and EGNNs for Molecular 3D Structure Prediction</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;"> Ruibo Hou, <b>Jinglin Jian</b>, Dian Zhou</span>
