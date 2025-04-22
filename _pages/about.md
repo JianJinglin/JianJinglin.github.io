@@ -7,10 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hi there! I'm Jinglin Jian (简靖琳), a second-year master's student in **Information Sciences** at **UIUC**. Since the fall of 2023, I had the oppotunity to work with Professor [Haohan Wang](https://haohanwang.github.io/) at UIUC. I hold a B.S. in Educational Technology from **Beijing Normal University**, where I contributed as a research assistant in Professor [Jingjing Zhang](https://scholar.google.com/citations?user=TJxt0-0AAAAJ&hl=en)'s lab. Also, I earned a double bachelor's degree in Economics from **Peking University**.
-
-I'm currently pursuing a PhD admission opportunity. My academic interests lie in **AI**, especially in real-world applications to **healthcare and education**.
+Hi there! I'm Jinglin Jian (简靖琳), a recent master graduate from UIUC. I'm thrilled to have been admitted to the PhD program at [Scripps Research Institute](https://www.scripps.edu/) by the beautiful ocean 🏖️ at San Diego, CA. Since 2023, I studied at the **School of Information Sciences** at UIUC, where I had the opportunity to work with Professor [Haohan Wang](https://haohanwang.github.io/). Previously, I received a bachelor’s degree in a computer-related field from Beijing Normal University, where I contributed as a research assistant in Professor [Jingjing Zhang](https://scholar.google.com/citations?user=TJxt0-0AAAAJ&hl=en)'s lab. Additionaly, out of personal interest, I also earned a second bachelor’s degree in **Economics** from **Peking University**.
 
 <style>
 table, td, th, tr {
@@ -20,6 +17,45 @@ table, td, th, tr {
 </style>
 
 <h2><span>Publications and Conferences</span></h2>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='/images/2024geocm.png' alt="2024geocm" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>GeoCM: Exploring Consistency Models and EGNNs for Molecular 3D Structure Prediction</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;"> Ruibo Hou, <b>Jinglin Jian</b>, Dian Zhou</span>
+<br>
+<a href='https://openreview.net/pdf?id=B1Ok8gBHfh'><button class="paper-btn">PAPER</button></a> 
+<!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
+<br>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Developed a self-supervised model based on the Equivariant Graph Neural Networks (EGNN) and Consistency Models (CM) to predict molecular 3D structures.</em>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BigData 2024</div><img src='/images/2024multimodal.png' alt="2024multimodal" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>Patient Outcome Predictions via A Multimodal Lan- guage Model for Electronic Health Records</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;">Zihan Li, <b>Jinglin Jian</b>, Chundian Li, Jinxia Yao, Jin Chen, Yang Zhang</span>
+<br>
+<a href='https://drive.google.com/drive/folders/1I12WiZpvVcawr0PKcvEPsnRuffrxnSjZ'><button class="paper-btn">PAPER</button></a> 
+<!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
+<br>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Early prediction of mortality risk and hospital length of stay is critical. We propose a multimodal framework that integrates full-text clinical note embeddings and time-stamped physiological data to jointly model patient outcomes.</em>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BigData 2024</div><img src='/images/2024aptamer.png' alt="2024aptamer" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>Big Data-Driven Computational Aptamer Design Framework via Parallel Monte Carlo Tree Search</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;"><b>Jinglin Jian</b>, Zhiheng Jiao, Zihan Li, Jin Chen</span>
+<br>
+<a href='10.1109/BigData62323.2024.10825454'><button class="paper-btn">PAPER</button></a> 
+<!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
+<br>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Developed an enhanced parallel Monte Carlo Tree Search framework for designing aptamers with high-affinity and specificity for target proteins.</em>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='/images/TAIS-framework.png' alt="2024tais" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data</h3>
@@ -28,7 +64,7 @@ table, td, th, tr {
 <a href='https://arxiv.org/abs/2402.12391'><button class="paper-btn">PAPER</button></a> 
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">To address the demanding workload of scientific data analysis, we introduce the Team of AI-made Scientists (TAIS), designed to streamline the scientific discovery pipeline. TAIS consists of simulated roles, including a project manager, data engineer, and domain expert, each represented by a Large Language Model (LLM).</em>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">ML can discover disease-predictive genes from gene expression data. We introduced the Team of AI-made Scientists (TAIS), a LLM-based framework for automatic streamlining ML analysis. TAIS consists of simulated roles, including a project manager, data engineer, and domain expert.</em>
 </div>
 </div>
 

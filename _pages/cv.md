@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV here](https://JianJinglin.github.io/files/cv.pdf)
-(Updated on 10/15/2024).
+[Download CV here](https://JianJinglin.github.io/files/Jinglin-Jian-CV-4.20.pdf)
+(Updated on 04/20/2025).
 
 
 <!-- 
