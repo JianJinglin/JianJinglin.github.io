@@ -18,12 +18,12 @@ table, td, th, tr {
 
 <h2><span>Publications and Conferences</span></h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='/images/2024geocm.png' alt="2024geocm" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ML for Bioinformatics workshop</div><img src='/images/2024geocm.png' alt="2024geocm" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>GeoCM: Exploring Consistency Models and EGNNs for Molecular 3D Structure Prediction</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;"> Ruibo Hou, <b>Jinglin Jian</b>, Dian Zhou</span>
 <br>
-<a href='https://openreview.net/pdf?id=B1Ok8gBHfh'><button class="paper-btn">PAPER</button></a> 
+<a href='https://openreview.net/pdf?id=B1Ok8gBHfh'><button class="paper-btn">Paper</button></a> 
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Developed a self-supervised model based on the Equivariant Graph Neural Networks (EGNN) and Consistency Models (CM) to predict molecular 3D structures.</em>
@@ -35,7 +35,7 @@ table, td, th, tr {
 <h3>Patient Outcome Predictions via A Multimodal Lan- guage Model for Electronic Health Records</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;">Zihan Li, <b>Jinglin Jian</b>, Chundian Li, Jinxia Yao, Jin Chen, Yang Zhang</span>
 <br>
-<a href='https://drive.google.com/drive/folders/1I12WiZpvVcawr0PKcvEPsnRuffrxnSjZ'><button class="paper-btn">PAPER</button></a> 
+<a href='https://drive.google.com/drive/folders/1I12WiZpvVcawr0PKcvEPsnRuffrxnSjZ'><button class="paper-btn">Paper</button></a> 
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Early prediction of mortality risk and hospital length of stay is critical. We propose a multimodal framework that integrates full-text clinical note embeddings and time-stamped physiological data to jointly model patient outcomes.</em>
@@ -48,7 +48,7 @@ table, td, th, tr {
 <h3>Big Data-Driven Computational Aptamer Design Framework via Parallel Monte Carlo Tree Search</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;"><b>Jinglin Jian</b>, Zhiheng Jiao, Zihan Li, Jin Chen</span>
 <br>
-<a href='10.1109/BigData62323.2024.10825454'><button class="paper-btn">PAPER</button></a> 
+<a href='10.1109/BigData62323.2024.10825454'><button class="paper-btn">Paper</button></a> 
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Developed an enhanced parallel Monte Carlo Tree Search framework for designing aptamers with high-affinity and specificity for target proteins.</em>
@@ -61,7 +61,7 @@ table, td, th, tr {
 <h3>Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;">Haoyang Liu, Yijiang Li, <b>Jinglin Jian</b>, Yuxuan Cheng, Jianrong Lu, Shuyi Guo, Jinglei Zhu, Mianchen Zhang, Miantong Zhang, Haohan Wang</span>
 <br>
-<a href='https://arxiv.org/abs/2402.12391'><button class="paper-btn">PAPER</button></a> 
+<a href='https://arxiv.org/abs/2402.12391'><button class="paper-btn">Paper</button></a> 
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">ML can discover disease-predictive genes from gene expression data. We introduced the Team of AI-made Scientists (TAIS), a LLM-based framework for automatic streamlining ML analysis. TAIS consists of simulated roles, including a project manager, data engineer, and domain expert.</em>
@@ -76,7 +76,7 @@ table, td, th, tr {
 <a href='https://visual-aid-2165b82d929e.herokuapp.com/'><button class="paper-btn">Website</button></a> 
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">
-Visual aids enhance children's learning. Educational theories emphasize student agency, but involving children's preferences in designing materials is challenging. We developed an interactive learning content designer that allows students to choose their favorite animals and colors for flashcards, while educators add academic content, balancing student engagement with educational goals. This can be a novel and promising paradigm for instructional design, especially for children with autism.
+Visual aids enhance children's learning. Educational theories emphasize student agency. We developed a platform based on image generative models, specifically tailored for children with autism.
 </em>
 </div>
 </div>
@@ -89,7 +89,7 @@ Visual aids enhance children's learning. Educational theories emphasize student 
 <h3>The Impact of Productive Failure on Learning Performance and Cognitive Load: Using Hypervideo to Facilitate Online Interactions</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;">Xiaojie Niu, Jingjing Zhang, Kate M. Xu, Xuan Wang</span>
 <br>
-<a href='https://ieeexplore.ieee.org/document/9499919'><button class="paper-btn">PAPER</button></a> 
+<a href='https://ieeexplore.ieee.org/document/9499919'><button class="paper-btn">Paper</button></a> 
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Productive failure is an instructional approach that uses students' cognitive conflicts to enhance their learning. This experimental study investigated the effect of productive failure in a hypervideo environment.</em>
 </div>
