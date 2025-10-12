@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I'm Jinglin Jian (简靖琳), a recent master graduate from UIUC. I'm thrilled to have been admitted to the PhD program at [Scripps Research Institute](https://www.scripps.edu/) by the beautiful ocean 🏖️ at San Diego, CA. Since 2023, I studied at the **School of Information Sciences** at UIUC, where I had the opportunity to work with Professor [Haohan Wang](https://haohanwang.github.io/). Previously, I received a bachelor’s degree in a computer-related field from Beijing Normal University, where I contributed as a research assistant in Professor [Jingjing Zhang](https://scholar.google.com/citations?user=TJxt0-0AAAAJ&hl=en)'s lab. Additionaly, out of personal interest, I also earned a second bachelor’s degree in **Economics** from **Peking University**.
+Hi there! I'm Jinglin Jian (简靖琳), a PhD student at [The Scripps Research Institute](https://www.scripps.edu/) by the beautiful ocean 🏖️ at San Diego, CA. 
+I received my master degree from the **School of Information Sciences** at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), where I had the opportunity to work close with Professor [Qingyun Wang](https://eaglew.github.io/), Professor [Haohan Wang](https://haohanwang.github.io/), and Professor [Ge Liu](https://www.mit.edu/~geliu/). Previously, I received a bachelor’s degree in a CS-related field from Beijing Normal University. I also earned a second bachelor’s degree in Economics from Peking University, out of personal interest.
 
 <style>
 table, td, th, tr {
@@ -21,7 +22,7 @@ table, td, th, tr {
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CS582 ML for Bioinformatics Workshop</div><img src='/images/2024geocm.png' alt="2024geocm" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>GeoCM: Exploring Consistency Models and EGNNs for Molecular 3D Structure Prediction</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;"> Ruibo Hou, <b>Jinglin Jian</b>, Dian Zhou</span>
+<span style="font-family: Georgia, serif; font-size: smaller;"> Ruibo Hou, <b>Jinglin Jian</b>, Dian Zhou, Ge Liu</span>
 <br>
 <a href='https://openreview.net/pdf?id=B1Ok8gBHfh'><button class="paper-btn">Paper</button></a> 
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
@@ -67,7 +68,7 @@ table, td, th, tr {
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">ML can discover disease-predictive genes from gene expression data. We introduced the Team of AI-made Scientists (TAIS), a LLM-based framework for automatic streamlining ML analysis. TAIS consists of simulated roles, including a project manager, data engineer, and domain expert.</em>
 </div>
 </div>
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIED 2024</div><img src='/images/2024visual-aid.jpg' alt="2024visual-aid" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>"Which Animal Would You Like to See on Your Flashcards?" Designing Visual Aids Together with Kids Using GIMs</h3>
@@ -80,7 +81,7 @@ Visual aids enhance children's learning. Educational theories emphasize student 
 </em>
 </div>
 </div>
-
+ -->
 
 <h2><span>Selected Projects</span></h2>
 
