@@ -21,7 +21,40 @@ table, td, th, tr {
 
 <h2><span>Publications and Conferences</span></h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CS582 ML for Bioinformatics Workshop</div><img src='/images/2024geocm.png' alt="2024geocm" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Portfolio Journal, Health Systems</div><img src='/images/jian2026npj.png' alt="NPJ Health Systems" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>The AI Scientist in Health: Potential, Challenges, and the Road Ahead</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;"><b>J. Jian</b>, ..., Q. Chen</span>
+<br>
+<a href='#'><button class="paper-btn">Paper</button></a> 
+<br>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">An invited perspective paper on the potential, challenges, and future direction of AI Scientists in health systems.</em>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Tutorial (Submitted)</div><img src='/images/wang2026co-discovery.png' alt="ACL2026 Submission" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>Human-AI Co-Discovery</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;">Q. Wang, ..., <b>J. Jian</b>, X. Guo, R. Li</span>
+<br>
+<a href='#'><button class="paper-btn">Paper</button></a> 
+<br>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">This work is currently under submission to ACL 2026.</em>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2025</div><img src='/images/jian2025survey' alt="jian2025survey" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>Exploring Agentic Multimodal Large Language Models: A Survey for AIScientists</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;"><b>Jinglin Jian</b>, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Zhiyong Lu, Qingyun Wang</span>
+<br>
+<a href='#'><button class="paper-btn">Paper</button></a> 
+<br>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;"> A survey framing AIScientists Development from a Multimodal Large Language Models (MLLM)-based AI agents perspective.</em>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIUC ML for Bioinformatics Workshop</div><img src='/images/2024geocm.png' alt="2024geocm" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>GeoCM: Exploring Consistency Models and EGNNs for Molecular 3D Structure Prediction</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;"> Ruibo Hou, <b>Jinglin Jian</b>, Dian Zhou, Ge Liu</span>
