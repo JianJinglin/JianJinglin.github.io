@@ -43,7 +43,7 @@ table, td, th, tr {
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2025</div><img src='/images/jian2025survey' alt="jian2025survey" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2025</div><img src='/images/jian2025survey.png' alt="jian2025survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>Exploring Agentic Multimodal Large Language Models: A Survey for AIScientists</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;"><b>Jinglin Jian</b>, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Zhiyong Lu, Qingyun Wang</span>
