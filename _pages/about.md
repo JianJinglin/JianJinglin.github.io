@@ -21,43 +21,45 @@ table, td, th, tr {
 
 <h2><span>Publications and Conferences</span></h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Portfolio Journal, Health Systems</div><img src='/images/jian2026npj.png' alt="NPJ Health Systems" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Portfolio Journal, Health Systems</div><img src='/images/jian2026npj.png' alt="jian2026npj" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>The AI Scientist in Health: Potential, Challenges, and the Road Ahead</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;"><b>J. Jian</b>, ..., Q. Chen</span>
+<span style="font-family: Georgia, serif; font-size: smaller;">Advised by Prof. Qingyun Wang (William Mary) and Prof. Qingyu Chen (Yale)</span>
 <br>
-<a href='#'><button class="paper-btn">Paper</button></a> 
+<!-- <a href='#'><button class="paper-btn">Paper</button></a>  -->
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">An invited perspective paper on the potential, challenges, and future direction of AI Scientists in health systems.</em>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Tutorial (Submitted)</div><img src='/images/wang2026co-discovery.png' alt="ACL2026 Submission" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Submission</div><img src='/images/wang2026co-discovery.png' alt="ACL2026tutorial" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<h3>Human-AI Co-Discovery</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;">Q. Wang, ..., <b>J. Jian</b>, X. Guo, R. Li</span>
+<h3>Tutorial: Human-AI Co-Discovery</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;"> Qingyun Wang, Wenpeng Yin, Lifu Huang, Yi R. (May) Fung, <b>Jinglin Jian</b>, Xuehang Guo, Ruochen Li</span>
 <br>
-<a href='#'><button class="paper-btn">Paper</button></a> 
+<!-- <a href='https://openreview.net/pdf?id=B1Ok8gBHfh'><button class="paper-btn">Paper</button></a>  -->
+<!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">This work is currently under submission to ACL 2026.</em>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">This tutorial is currently under submission to ACL 2026.</em>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2025</div><img src='/images/jian2025survey.png' alt="jian2025survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<h3>Exploring Agentic Multimodal Large Language Models: A Survey for AIScientists</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;"><b>Jinglin Jian</b>, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Zhiyong Lu, Qingyun Wang</span>
+<h3>GeoCM: Exploring Agentic Multimodal Large Language Models: A Survey for AIScientists</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;"> <b>Jinglin Jian</b>, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Zhiyong Lu, Qingyun Wang</span>
 <br>
-<a href='#'><button class="paper-btn">Paper</button></a> 
+<!-- <a href='https://openreview.net/pdf?id=B1Ok8gBHfh'><button class="paper-btn">Paper</button></a>  -->
+<!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;"> A survey framing AIScientists Development from a Multimodal Large Language Models (MLLM)-based AI agents perspective.</em>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">A survey framing AIScientists Development from a Multimodal Large Language Models (MLLM)-based AI agents perspective.</em>
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIUC ML for Bioinformatics Workshop</div><img src='/images/2024geocm.png' alt="2024geocm" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>GeoCM: Exploring Consistency Models and EGNNs for Molecular 3D Structure Prediction</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;"> Ruibo Hou, <b>Jinglin Jian</b>, Dian Zhou, Ge Liu</span>
+<span style="font-family: Georgia, serif; font-size: smaller;"> Ruibo Hou, Dian Zhou, <b>Jinglin Jian</b>, Ge Liu</span>
 <br>
 <a href='https://openreview.net/pdf?id=B1Ok8gBHfh'><button class="paper-btn">Paper</button></a> 
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
