@@ -24,7 +24,7 @@ table, td, th, tr {
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Portfolio Journal, Health Systems</div><img src='/images/jian2026npj-1.png' alt="jian2026npj" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>The AI Scientist in Health: Potential, Challenges, and the Road Ahead</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;">Advised by Prof. Qingyun Wang (William Mary) and Prof. Qingyu Chen (Yale)</span>
+<span style="font-family: Georgia, serif; font-size: smaller;">Advised by Prof. Qingyun Wang (William & Mary) and Prof. Qingyu Chen (Yale)</span>
 <br>
 <!-- <a href='#'><button class="paper-btn">Paper</button></a>  -->
 <br>
