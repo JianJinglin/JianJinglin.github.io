@@ -73,7 +73,7 @@ table, td, th, tr {
 <h3>Patient Outcome Predictions via A Multimodal Lan- guage Model for Electronic Health Records</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;">Zihan Li, <b>Jinglin Jian</b>, Chundian Li, Jinxia Yao, Jin Chen, Yang Zhang</span>
 <br>
-<a href='https://drive.google.com/drive/folders/1I12WiZpvVcawr0PKcvEPsnRuffrxnSjZ'><button class="paper-btn">Paper</button></a> 
+<a href='https://drive.google.com/file/d/1qkch3s35zjKdzGY71EI-cBFfMcDRlKGc/view?usp=sharing'><button class="paper-btn">Paper</button></a> 
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Early prediction of mortality risk and hospital length of stay is critical. We propose a multimodal framework that integrates full-text clinical note embeddings and time-stamped physiological data to jointly model patient outcomes.</em>
