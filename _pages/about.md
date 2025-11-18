@@ -49,7 +49,7 @@ table, td, th, tr {
 <h3>Exploring Agentic Multimodal Large Language Models: A Survey for AIScientists</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;"> <b>Jinglin Jian</b>, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Qingyun Wang</span>
 <br>
-<!-- <a href='https://openreview.net/pdf?id=B1Ok8gBHfh'><button class="paper-btn">Paper</button></a>  -->
+<a href='https://doi.org/10.36227/techrxiv.176344216.60619335/v1'><button class="paper-btn">Paper</button></a> 
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">A survey framing AIScientists Development from a Multimodal Large Language Models (MLLM)-based AI agents perspective.</em>
