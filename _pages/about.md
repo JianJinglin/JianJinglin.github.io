@@ -32,6 +32,18 @@ table, td, th, tr {
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2025</div><img src='/images/jian2025survey.png' alt="jian2025survey" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>Exploring Agentic Multimodal Large Language Models: A Survey for AIScientists</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;"> <b>Jinglin Jian</b>, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Zhiyong Lu, Qingyun Wang</span>
+<br>
+<a href='https://doi.org/10.36227/techrxiv.176344216.60619335/v1'><button class="paper-btn">Paper</button></a>
+<!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
+<br>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">A survey framing AIScientists Development from a Multimodal Large Language Models (MLLM)-based AI agents perspective.</em>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Submission</div><img src='/images/wang2026co-discovery.png' alt="ACL2026tutorial" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>Tutorial: Human-AI Co-Discovery</h3>
@@ -41,18 +53,6 @@ table, td, th, tr {
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">This tutorial is currently under submission to ACL 2026.</em>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2025</div><img src='/images/jian2025survey.png' alt="jian2025survey" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<h3>Exploring Agentic Multimodal Large Language Models: A Survey for AIScientists</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;"> <b>Jinglin Jian</b>, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Qingyun Wang</span>
-<br>
-<a href='https://doi.org/10.36227/techrxiv.176344216.60619335/v1'><button class="paper-btn">Paper</button></a> 
-<!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
-<br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">A survey framing AIScientists Development from a Multimodal Large Language Models (MLLM)-based AI agents perspective.</em>
 </div>
 </div>
 
