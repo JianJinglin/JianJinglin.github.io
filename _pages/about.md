@@ -21,14 +21,14 @@ table, td, th, tr {
 
 <h2><span>Publications and Conferences</span></h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BPS 2026 Abstract</div><img src='/images/2026bps-ppk2a.png' alt="2026bps" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BPS 2026</div><img src='/images/2026bps-ppk2a.png' alt="2026bps" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>Allosterically Inhibiting Pseudomonas aeruginosa's Polyphosphate Kinase 2A by Disrupting Its Oligomerization</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;">Constanza Torres-Paris, Madeline G. Ammend, Joseph Agha, <b>Jinglin Jian</b>, Matthew Holcomb, Stefano Forli, Lisa R. Racki</span>
 <br>
 <!-- <a href='#'><button class="paper-btn">Paper</button></a> -->
 <br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Performed virtual screening of 2.4 million compounds against Ppk2A mutant proteins using AutoDock-GPU and identified preliminary hit candidates. Accepted for presentation at the Biophysical Society Annual Meeting 2026 in San Francisco.</em>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Performed virtual screening of 2.4 million compounds against Ppk2A mutant proteins using AutoDock-GPU and identified preliminary hit candidates.</em>
 </div>
 </div>
 
@@ -39,7 +39,7 @@ table, td, th, tr {
 <br>
 <!-- <a href='#'><button class="paper-btn">Paper</button></a>  -->
 <br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">An invited perspective paper on the potential, challenges, and future direction of AI Scientists in health systems.</em>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">A paper discussing the potential, challenges, and future direction of AI Scientists in health systems.</em>
 </div>
 </div>
 
