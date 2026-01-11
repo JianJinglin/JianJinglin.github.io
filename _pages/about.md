@@ -21,6 +21,17 @@ table, td, th, tr {
 
 <h2><span>Publications and Conferences</span></h2>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BPS 2026 Abstract</div><img src='/images/2026bps-ppk2a.png' alt="2026bps" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>Allosterically Inhibiting Pseudomonas aeruginosa's Polyphosphate Kinase 2A by Disrupting Its Oligomerization</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;">Constanza Torres-Paris, Madeline G. Ammend, Joseph Agha, <b>Jinglin Jian</b>, Matthew Holcomb, Stefano Forli, Lisa R. Racki</span>
+<br>
+<!-- <a href='#'><button class="paper-btn">Paper</button></a> -->
+<br>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Performed virtual screening of 2.4 million compounds against Ppk2A mutant proteins using AutoDock-GPU and identified preliminary hit candidates. Accepted for presentation at the Biophysical Society Annual Meeting 2026 in San Francisco.</em>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Preparation</div><img src='/images/jian2026npj-1.png' alt="jian2026npj" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>The AI Scientist in Health: Potential, Challenges, and the Road Ahead</h3>
@@ -103,17 +114,6 @@ table, td, th, tr {
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">ML can discover disease-predictive genes from gene expression data. We introduced the Team of AI-made Scientists (TAIS), a LLM-based framework for automatic streamlining ML analysis. TAIS consists of simulated roles, including a project manager, data engineer, and domain expert.</em>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BPS 2026 Abstract</div><img src='/images/2026bps-ppk2a.png' alt="2026bps" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<h3>Allosterically Inhibiting Pseudomonas aeruginosa's Polyphosphate Kinase 2A by Disrupting Its Oligomerization</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;">Constanza Torres-Paris, Madeline G. Ammend, Joseph Agha, <b>Jinglin Jian</b>, Matthew Holcomb, Stefano Forli, Lisa R. Racki</span>
-<br>
-<!-- <a href='#'><button class="paper-btn">Paper</button></a> -->
-<br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Performed virtual screening of 2.4 million compounds against Ppk2A mutant proteins using AutoDock-GPU and identified preliminary hit candidates. Accepted for presentation at the Biophysical Society Annual Meeting 2026 in San Francisco.</em>
 </div>
 </div>
 <!--
