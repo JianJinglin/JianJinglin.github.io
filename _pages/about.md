@@ -99,13 +99,24 @@ table, td, th, tr {
 <h3>Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;">Haoyang Liu, Yijiang Li, <b>Jinglin Jian</b>, Yuxuan Cheng, Jianrong Lu, Shuyi Guo, Jinglei Zhu, Mianchen Zhang, Miantong Zhang, Haohan Wang</span>
 <br>
-<a href='https://arxiv.org/abs/2402.12391'><button class="paper-btn">Paper</button></a> 
+<a href='https://arxiv.org/abs/2402.12391'><button class="paper-btn">Paper</button></a>
 <!-- <a href='https://github.com/EmpathYang/Prejudice-Caprice-Framework/'><button class="code-btn">CODE</button></a> -->
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">ML can discover disease-predictive genes from gene expression data. We introduced the Team of AI-made Scientists (TAIS), a LLM-based framework for automatic streamlining ML analysis. TAIS consists of simulated roles, including a project manager, data engineer, and domain expert.</em>
 </div>
 </div>
-<!-- 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BPS 2026 Abstract</div><img src='/images/2026bps-ppk2a.png' alt="2026bps" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>Allosterically Inhibiting Pseudomonas aeruginosa's Polyphosphate Kinase 2A by Disrupting Its Oligomerization</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;">Constanza Torres-Paris, Madeline G. Ammend, Joseph Agha, <b>Jinglin Jian</b>, Matthew Holcomb, Stefano Forli, Lisa R. Racki</span>
+<br>
+<!-- <a href='#'><button class="paper-btn">Paper</button></a> -->
+<br>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Performed virtual screening of 2.4 million compounds against Ppk2A mutant proteins using AutoDock-GPU and identified preliminary hit candidates. Accepted for presentation at the Biophysical Society Annual Meeting 2026 in San Francisco.</em>
+</div>
+</div>
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIED 2024</div><img src='/images/2024visual-aid.jpg' alt="2024visual-aid" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>"Which Animal Would You Like to See on Your Flashcards?" Designing Visual Aids Together with Kids Using GIMs</h3>
