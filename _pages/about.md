@@ -10,6 +10,8 @@ redirect_from:
 **Email:** jjian [at] scripps [dot] edu
 
 Hi there! I'm Jinglin Jian (简靖琳), a PhD student at [Scripps Research](https://www.scripps.edu/) by the beautiful ocean 🏖️ at San Diego, CA. I'm currently rotating in the [Forli Lab](https://forlilab.org/), where I explore computational approaches for drug discovery. I'm deeply grateful to be supported by the **Kellogg Fellowship**, a three-year endowed award generously funded by the Kellogg family and The ALSAM Foundation.
+
+I'm also the founder of the **[AI × Science Club](https://jianjinglin.github.io/ai-science-club/)** at Scripps Research — a student-led organization dedicated to exploring how artificial intelligence is reshaping scientific discovery. We host weekly journal clubs, hands-on workshops, and invited speaker series at the intersection of AI and the natural sciences.
 I received my master degree from the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), where I had the opportunity to work close with Professor [Qingyun Wang](https://eaglew.github.io/), Professor [Haohan Wang](https://haohanwang.github.io/), and Professor [Ge Liu](https://www.mit.edu/~geliu/). Previously, I studied at [Beijing Normal University](https://english.bnu.edu.cn/), with a dual B.Econ. degree in **Economics** from [Peking University](https://english.pku.edu.cn/).
 
 <style>
