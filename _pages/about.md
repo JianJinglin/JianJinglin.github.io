@@ -30,11 +30,11 @@ I received my master's degree from the [School of Information Sciences](https://
 
 I am broadly interested in computational biology, AI for science, and natural language processing.
 
-**RI1. AI-Driven Scientific Discovery & Agentic Systems.**
-Building autonomous AI scientists that can reason, plan, and execute scientific workflows. This includes LLM-based agentic systems for automating research pipelines, expert reasoning benchmarks, and computational approaches for virtual screening and drug discovery.
-
-**RI2. Generative Models for Molecular & Protein Design.**
+**RI1. Generative Models for Molecular & Protein Design.**
 Applying deep generative models — including diffusion models and flow matching — to molecular and protein design problems. Current focus areas include antibody design, structure prediction, and AI-guided drug discovery.
+
+**RI2. AI-Driven Scientific Discovery & Agentic Systems.**
+Building autonomous AI scientists that can reason, plan, and execute scientific workflows. This includes LLM-based agentic systems for automating research pipelines, expert reasoning benchmarks, and computational approaches for virtual screening and drug discovery.
 
 <style>
 table, td, th, tr {
