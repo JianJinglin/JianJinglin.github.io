@@ -11,27 +11,26 @@ redirect_from:
 
 Hi there! I'm Jinglin Jian (简靖林), a PhD student at [Scripps Research](https://www.scripps.edu/) by the beautiful ocean 🏖️ at San Diego, CA. I'm currently rotating in the [Forli Lab](https://forlilab.org/), where I explore computational approaches for drug discovery. I'm deeply grateful to be supported by the **Kellogg Fellowship**, a three-year endowed award generously funded by the Kellogg family and The ALSAM Foundation.
 
-I'm also the founder of the **[AI × Science Club](https://jianjinglin.github.io/ai-science-club/)** at Scripps Research — a student-led organization dedicated to exploring how artificial intelligence is reshaping scientific discovery. We host weekly journal clubs, hands-on workshops, and invited speaker series at the intersection of AI and the natural sciences.
+I'm also the founder of the [AI × Science Club](https://jianjinglin.github.io/ai-science-club/) at Scripps Research, a student-led community exploring how AI is reshaping scientific discovery. We're still growing and building things out, so if this sounds interesting to you, come [join us on Slack](https://join.slack.com/t/aixsciencescripps/shared_invite/zt-3qjv2adua-lZEc7j_qIRF8878PrSdi4Q) — we'd love to have you!
 
 I received my master's degree from the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), where I had the opportunity to work closely with Professor [Qingyun Wang](https://eaglew.github.io/), Professor [Haohan Wang](https://haohanwang.github.io/), and Professor [Ge Liu](https://www.mit.edu/~geliu/). Previously, I studied at [Beijing Normal University](https://english.bnu.edu.cn/), with a dual B.Econ. degree in **Economics** from [Peking University](https://english.pku.edu.cn/).
 
 ### News
 
-- **Feb 2026:** Founded the **AI × Science Club** at Scripps Research.
+- **Feb 2026:** Founded the [AI × Science Club](https://jianjinglin.github.io/ai-science-club/) at Scripps Research. We're still building — if you're interested, come [join us on Slack](https://join.slack.com/t/aixsciencescripps/shared_invite/zt-3qjv2adua-lZEc7j_qIRF8878PrSdi4Q)!
 - **Feb 2026:** Rotating in [Bryan Briney's lab](https://www.scripps.edu/faculty/briney/), working on antibody language models.
 - **Feb 2026:** Tutorial on "Human-AI Co-Discovery" submitted to ACL 2026.
 - **Jan 2026:** Started PhD at Scripps Research, [Forli Lab](https://forlilab.org/).
 - **Dec 2025:** Survey paper "Exploring Agentic Multimodal LLMs for AI Scientists" published on [TechRxiv](https://doi.org/10.36227/techrxiv.176344216.60619335/v1).
 - **Aug 2025:** Graduated from UIUC with MS in Information Science.
-- **Nov 2024:** First-author paper accepted to IEEE BigData 2024.
-- **Oct 2024:** Co-authored paper accepted to IEEE BigData 2024.
+- **Nov 2024:** Two papers accepted to IEEE BigData 2024, including one as first author.
 
 ### Research Interests
 
-I am broadly interested in computational biology, AI for science, and natural language processing.
+I am broadly interested in AI for Science, machine learning for biology, and natural language processing.
 
 **RI1. Generative Models for Molecular & Protein Design.**
-Applying deep generative models — including diffusion models and flow matching — to molecular and protein design problems. Current focus areas include antibody design, structure prediction, and AI-guided drug discovery.
+Applying deep generative models, including diffusion models and flow matching, to molecular and protein design problems. Current focus areas include antibody design, structure prediction, and AI-guided drug discovery.
 
 **RI2. AI-Driven Scientific Discovery & Agentic Systems.**
 Building autonomous AI scientists that can reason, plan, and execute scientific workflows. This includes LLM-based agentic systems for automating research pipelines, expert reasoning benchmarks, and computational approaches for virtual screening and drug discovery.
