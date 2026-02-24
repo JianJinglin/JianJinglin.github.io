@@ -69,18 +69,11 @@ San Diego 的阳光、海风、和日常。
 
 ---
 
-<div class="gallery-placeholder">
-  <span class="emoji">📸</span>
-  Photos coming soon...
-</div>
-
-<!--
-To add photos: drop images into /images/gallery/ and uncomment below.
-Copy the gallery-item div for each new image.
-
 <div class="gallery-grid">
   <div class="gallery-item">
-    <img src="/images/gallery/example.jpg" alt="Description">
+    <img src="/images/gallery/scripps-sunset.jpg" alt="Scripps Research sunset">
+  </div>
+  <div class="gallery-item">
+    <img src="/images/gallery/scripps-bluesky.jpg" alt="Scripps Research blue sky">
   </div>
 </div>
--->
