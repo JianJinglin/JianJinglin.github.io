@@ -51,11 +51,21 @@ author_profile: true
   transform: scale(1.05);
 }
 
-.gallery-item video {
+.gallery-video {
+  grid-column: span 2;
+  aspect-ratio: 16/9;
+}
+
+.gallery-video iframe {
   width: 100%;
   height: 100%;
-  object-fit: cover;
   border-radius: 12px;
+}
+
+@media (max-width: 600px) {
+  .gallery-video {
+    grid-column: span 1;
+  }
 }
 
 .gallery-placeholder {
@@ -83,7 +93,7 @@ San Diego 的阳光、海风、和日常。
   <div class="gallery-item">
     <img src="/images/gallery/scripps-bluesky.jpg" alt="Scripps Research blue sky">
   </div>
-  <div class="gallery-item">
-    <video src="/images/gallery/scripps-video.mp4" autoplay loop muted playsinline></video>
+  <div class="gallery-item gallery-video">
+    <iframe src="https://www.youtube.com/embed/Ik7-wn9qrc8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
