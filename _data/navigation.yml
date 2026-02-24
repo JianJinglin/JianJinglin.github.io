@@ -17,6 +17,12 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "随记"
+    url: /essays/
+
+  - title: "圣地亚哥的阳光"
+    url: /gallery/
     
   # - title: "Guide"
   #   url: /markdown/
