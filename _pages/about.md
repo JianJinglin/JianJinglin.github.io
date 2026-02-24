@@ -9,7 +9,7 @@ redirect_from:
 ---
 **Email:** jjian [at] scripps [dot] edu
 
-Hi there! I'm Jinglin Jian (简靖林), a PhD student at [Scripps Research](https://www.scripps.edu/) by the beautiful ocean 🏖️ at San Diego, CA. I'm deeply grateful to be supported by the **Kellogg Fellowship**, a three-year endowed award generously funded by the Kellogg family and The ALSAM Foundation.
+Hi there! I'm Jinglin Jian (简靖琳), a PhD student at [Scripps Research](https://www.scripps.edu/) by the beautiful ocean 🏖️ at San Diego, CA. I'm deeply grateful to be supported by the **Kellogg Fellowship**, a three-year endowed award generously funded by the Kellogg family and The ALSAM Foundation.
 
 I'm also the founder of the [AI × Science Club](https://jianjinglin.github.io/ai-science-club/) at Scripps Research, a student-led community exploring how AI is reshaping scientific discovery. We're still growing and building things out, so if this sounds interesting to you, come [join us on Slack](https://join.slack.com/t/aixsciencescripps/shared_invite/zt-3qjv2adua-lZEc7j_qIRF8878PrSdi4Q) — we'd love to have you!
 
