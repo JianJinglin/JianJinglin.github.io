@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "随记 / Essays"
+title: "Misc"
 permalink: /essays/
 author_profile: true
 ---
 
 {% include base_path %}
 
-一些读书笔记、随想、和胡说八道。  
 Some reading notes, reflections, and ramblings.
 
 ---

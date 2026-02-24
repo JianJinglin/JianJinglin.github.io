@@ -9,7 +9,7 @@ redirect_from:
 ---
 **Email:** jjian [at] scripps [dot] edu
 
-Hi there! I'm Jinglin Jian (简靖林), a PhD student at [Scripps Research](https://www.scripps.edu/) by the beautiful ocean 🏖️ at San Diego, CA. I'm currently rotating in the [Forli Lab](https://forlilab.org/), where I explore computational approaches for drug discovery. I'm deeply grateful to be supported by the **Kellogg Fellowship**, a three-year endowed award generously funded by the Kellogg family and The ALSAM Foundation.
+Hi there! I'm Jinglin Jian (简靖林), a PhD student at [Scripps Research](https://www.scripps.edu/) by the beautiful ocean 🏖️ at San Diego, CA. I'm deeply grateful to be supported by the **Kellogg Fellowship**, a three-year endowed award generously funded by the Kellogg family and The ALSAM Foundation.
 
 I'm also the founder of the [AI × Science Club](https://jianjinglin.github.io/ai-science-club/) at Scripps Research, a student-led community exploring how AI is reshaping scientific discovery. We're still growing and building things out, so if this sounds interesting to you, come [join us on Slack](https://join.slack.com/t/aixsciencescripps/shared_invite/zt-3qjv2adua-lZEc7j_qIRF8878PrSdi4Q) — we'd love to have you!
 
@@ -17,23 +17,25 @@ I received my master's degree from the [School of Information Sciences](https://
 
 ### News
 
-- **Feb 2026:** Founded the [AI × Science Club](https://jianjinglin.github.io/ai-science-club/) at Scripps Research. We're still building — if you're interested, come [join us on Slack](https://join.slack.com/t/aixsciencescripps/shared_invite/zt-3qjv2adua-lZEc7j_qIRF8878PrSdi4Q)!
+- **Feb 2026:** Founded the [AI × Science Club](https://jianjinglin.github.io/ai-science-club/) at Scripps Research. We're still building, if you're interested, come [join us on Slack](https://join.slack.com/t/aixsciencescripps/shared_invite/zt-3qjv2adua-lZEc7j_qIRF8878PrSdi4Q)!
 - **Feb 2026:** Rotating in [Bryan Briney's lab](https://www.scripps.edu/faculty/briney/), working on antibody language models.
-- **Feb 2026:** Tutorial on "Human-AI Co-Discovery" submitted to ACL 2026.
+- **Jan 2026:** Submitted survey paper "Exploring Agentic Multimodal Large Language Models: A Survey for AIScientists" to ACL 2026.
 - **Jan 2026:** Started PhD at Scripps Research, [Forli Lab](https://forlilab.org/).
+- **Dec 2025:** Tutorial on "Human-AI Co-Discovery" submitted to ACL 2026.
 - **Dec 2025:** Survey paper "Exploring Agentic Multimodal LLMs for AI Scientists" published on [TechRxiv](https://doi.org/10.36227/techrxiv.176344216.60619335/v1).
-- **Aug 2025:** Graduated from UIUC with MS in Information Science.
+- **Aug 2025:** Started rotating in the [Forli Lab](https://forlilab.org/), exploring computational approaches for drug discovery.
+- **Aug 2025:** Graduated from UIUC with MS in Information Sciences.
 - **Nov 2024:** Two papers accepted to IEEE BigData 2024, including one as first author.
 
 ### Research Interests
 
 I am broadly interested in AI for Science, machine learning for biology, and natural language processing.
 
-**RI1. Generative Models for Molecular & Protein Design.**
-Applying deep generative models, including diffusion models and flow matching, to molecular and protein design problems. Current focus areas include antibody design, structure prediction, and AI-guided drug discovery.
+**RI1. Generative Models for BioMedicine.**
+Developing generative models for biomedical applications. Currently learning diffusion models and flow matching, and working with different architectures on antibody sequence data.
 
-**RI2. AI-Driven Scientific Discovery & Agentic Systems.**
-Building autonomous AI scientists that can reason, plan, and execute scientific workflows. This includes LLM-based agentic systems for automating research pipelines, expert reasoning benchmarks, and computational approaches for virtual screening and drug discovery.
+**RI2. Agentic Multimodal Large Language Models for Scientific Discovery.**
+Recently working on Agentic AI Scientist for different biomedical discovery processes.
 
 <style>
 table, td, th, tr {

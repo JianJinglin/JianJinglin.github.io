@@ -18,10 +18,10 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "随记"
+  - title: "Misc"
     url: /essays/
 
-  - title: "圣地亚哥的阳光"
+  - title: "San Diego Sunshine"
     url: /gallery/
     
   # - title: "Guide"

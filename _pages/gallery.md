@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "圣地亚哥的阳光 ☀️"
+title: "San Diego Sunshine ☀️"
 permalink: /gallery/
 author_profile: true
 ---
@@ -85,7 +85,7 @@ author_profile: true
 }
 </style>
 
-San Diego 的阳光、海风、和日常。
+Sunshine, ocean breeze, and daily life in San Diego.
 
 ---
 
