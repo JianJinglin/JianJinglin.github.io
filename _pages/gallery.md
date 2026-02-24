@@ -8,7 +8,7 @@ author_profile: true
 <style>
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 16px;
   padding: 20px 0;
 }
@@ -29,7 +29,6 @@ author_profile: true
   position: relative;
   overflow: hidden;
   border-radius: 12px;
-  aspect-ratio: 4/3;
   background: #f0f0f0;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -42,8 +41,9 @@ author_profile: true
 
 .gallery-item img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
+  display: block;
+  border-radius: 12px;
   transition: transform 0.4s ease;
 }
 
@@ -52,8 +52,11 @@ author_profile: true
 }
 
 .gallery-video {
-  grid-column: span 2;
   aspect-ratio: 16/9;
+  margin-bottom: 24px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
 .gallery-video iframe {
@@ -86,14 +89,15 @@ San Diego 的阳光、海风、和日常。
 
 ---
 
+<div class="gallery-item gallery-video">
+  <iframe src="https://www.youtube.com/embed/Ik7-wn9qrc8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <div class="gallery-grid">
   <div class="gallery-item">
     <img src="/images/gallery/scripps-sunset.jpg" alt="Scripps Research sunset">
   </div>
   <div class="gallery-item">
     <img src="/images/gallery/scripps-bluesky.jpg" alt="Scripps Research blue sky">
-  </div>
-  <div class="gallery-item gallery-video">
-    <iframe src="https://www.youtube.com/embed/Ik7-wn9qrc8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
