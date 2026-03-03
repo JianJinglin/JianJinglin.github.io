@@ -24,7 +24,7 @@ I'm also the founder of the [AI × Science Club](https://jianjinglin.github.io/a
 - **Dec 2025:** Tutorial on "Human-AI Co-Discovery" submitted to ACL 2026.
 - **Dec 2025:** Survey paper "Exploring Agentic Multimodal LLMs for AI Scientists" published on [TechRxiv](https://doi.org/10.36227/techrxiv.176344216.60619335/v1).
 - **Aug 2025:** Started rotating in the [Forli Lab](https://forlilab.org/), exploring computational approaches for drug discovery.
-- **Aug 2025:** Graduated from UIUC with MS in Information Sciences.
+- **May 2025:** Graduated from UIUC with MS in Information Sciences.
 - **Oct 2025:** Selected for the three-year **Kellogg Fellowship** at Scripps Research. [See here](https://www.linkedin.com/posts/activity-7386838762279899136-0BdF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfYmIBH2t6dDKhIhtu5LzkKEVqi2J8sos).
 - **Nov 2024:** Two papers accepted to IEEE BigData 2024, including one as first author.
 
