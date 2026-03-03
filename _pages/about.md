@@ -11,9 +11,9 @@ redirect_from:
 
 Hi there! I'm Jinglin Jian (简靖琳), a PhD student at [Scripps Research](https://www.scripps.edu/) by the beautiful ocean 🏖️ at San Diego, CA. I'm deeply grateful to be supported by the **Kellogg Fellowship**, a three-year endowed award generously funded by the Kellogg family and The ALSAM Foundation.
 
-I'm also the founder of the [AI × Science Club](https://jianjinglin.github.io/ai-science-club/) at Scripps Research, a student-led community exploring how AI is reshaping scientific discovery. We're still growing and building things out, so if this sounds interesting to you, come [join us on Slack](https://join.slack.com/t/aixsciencescripps/shared_invite/zt-3qjv2adua-lZEc7j_qIRF8878PrSdi4Q) — we'd love to have you!
-
 I received my master's degree from the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), where I had the opportunity to work closely with Professor [Qingyun Wang](https://eaglew.github.io/), Professor [Haohan Wang](https://haohanwang.github.io/), and Professor [Ge Liu](https://www.mit.edu/~geliu/). Previously, I studied at [Beijing Normal University](https://english.bnu.edu.cn/), with a dual B.Econ. degree in **Economics** from [Peking University](https://english.pku.edu.cn/).
+
+I'm also the founder of the [AI × Science Club](https://jianjinglin.github.io/ai-science-club/) at Scripps Research, a student-led community exploring how AI is reshaping scientific discovery. We're still growing and building things out, so if this sounds interesting to you, come [join us on Slack](https://join.slack.com/t/aixsciencescripps/shared_invite/zt-3qjv2adua-lZEc7j_qIRF8878PrSdi4Q) — we'd love to have you!
 
 ### News
 
@@ -25,6 +25,7 @@ I received my master's degree from the [School of Information Sciences](https://
 - **Dec 2025:** Survey paper "Exploring Agentic Multimodal LLMs for AI Scientists" published on [TechRxiv](https://doi.org/10.36227/techrxiv.176344216.60619335/v1).
 - **Aug 2025:** Started rotating in the [Forli Lab](https://forlilab.org/), exploring computational approaches for drug discovery.
 - **Aug 2025:** Graduated from UIUC with MS in Information Sciences.
+- **Oct 2025:** Selected for the three-year **Kellogg Fellowship** at Scripps Research. [See here](https://www.linkedin.com/posts/activity-7386838762279899136-0BdF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfYmIBH2t6dDKhIhtu5LzkKEVqi2J8sos).
 - **Nov 2024:** Two papers accepted to IEEE BigData 2024, including one as first author.
 
 ### Research Interests
