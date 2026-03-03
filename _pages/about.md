@@ -56,6 +56,16 @@ table, td, th, tr {
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Submission</div><img src='/images/wang2026co-discovery.png' alt="ACL2026tutorial" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>Tutorial: Human-AI Co-Discovery</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;"> Qingyun Wang, Wenpeng Yin, Lifu Huang, Yi R. (May) Fung, <b>Jinglin Jian</b>, Xuehang Guo, Ruochen Li</span>
+<br>
+<br>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">This tutorial is currently under submission to ACL 2026.</em>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2025</div><img src='/images/jian2025survey.png' alt="jian2025survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>Exploring Agentic Multimodal Large Language Models: A Survey for AIScientists</h3>
@@ -75,16 +85,6 @@ table, td, th, tr {
 <a href='https://arxiv.org/abs/2402.12391'><button class="paper-btn">Paper</button></a>
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">ML can discover disease-predictive genes from gene expression data. We introduced the Team of AI-made Scientists (TAIS), a LLM-based framework for automatic streamlining ML analysis. TAIS consists of simulated roles, including a project manager, data engineer, and domain expert.</em>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Submission</div><img src='/images/wang2026co-discovery.png' alt="ACL2026tutorial" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<h3>Tutorial: Human-AI Co-Discovery</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;"> Qingyun Wang, Wenpeng Yin, Lifu Huang, Yi R. (May) Fung, <b>Jinglin Jian</b>, Xuehang Guo, Ruochen Li</span>
-<br>
-<br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">This tutorial is currently under submission to ACL 2026.</em>
 </div>
 </div>
 
