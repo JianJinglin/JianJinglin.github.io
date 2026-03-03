@@ -87,17 +87,6 @@ table, td, th, tr {
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='/images/TAIS-framework.png' alt="2024tais" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<h3>Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;">Haoyang Liu, Yijiang Li, <b>Jinglin Jian</b>, Yuxuan Cheng, Jianrong Lu, Shuyi Guo, Jinglei Zhu, Mianchen Zhang, Miantong Zhang, Haohan Wang</span>
-<br>
-<a href='https://arxiv.org/abs/2402.12391'><button class="paper-btn">Paper</button></a>
-<br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">ML can discover disease-predictive genes from gene expression data. We introduced the Team of AI-made Scientists (TAIS), a LLM-based framework for automatic streamlining ML analysis. TAIS consists of simulated roles, including a project manager, data engineer, and domain expert.</em>
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BigData 2024</div><img src='/images/2024aptamer.png' alt="2024aptamer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>Big Data-Driven Computational Aptamer Design Framework via Parallel Monte Carlo Tree Search</h3>
@@ -128,6 +117,17 @@ table, td, th, tr {
 <a href='https://openreview.net/pdf?id=B1Ok8gBHfh'><button class="paper-btn">Paper</button></a> 
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Developed a self-supervised model based on the Equivariant Graph Neural Networks (EGNN) and Consistency Models (CM) to predict molecular 3D structures.</em>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='/images/TAIS-framework.png' alt="2024tais" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<h3>Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data</h3>
+<span style="font-family: Georgia, serif; font-size: smaller;">Haoyang Liu, Yijiang Li, <b>Jinglin Jian</b>, Yuxuan Cheng, Jianrong Lu, Shuyi Guo, Jinglei Zhu, Mianchen Zhang, Miantong Zhang, Haohan Wang</span>
+<br>
+<a href='https://arxiv.org/abs/2402.12391'><button class="paper-btn">Paper</button></a>
+<br>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">ML can discover disease-predictive genes from gene expression data. We introduced the Team of AI-made Scientists (TAIS), a LLM-based framework for automatic streamlining ML analysis. TAIS consists of simulated roles, including a project manager, data engineer, and domain expert.</em>
 </div>
 </div>
 
