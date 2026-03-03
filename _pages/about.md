@@ -20,12 +20,11 @@ I'm also the founder of the [AI × Science Club](https://jianjinglin.github.io/a
 - **Feb 2026:** Founded the [AI × Science Club](https://jianjinglin.github.io/ai-science-club/) at Scripps Research. We're still building, if you're interested, come [join us on Slack](https://join.slack.com/t/aixsciencescripps/shared_invite/zt-3qjv2adua-lZEc7j_qIRF8878PrSdi4Q)!
 - **Feb 2026:** Rotating in [Bryan Briney's lab](https://www.scripps.edu/faculty/briney/), working on antibody language models.
 - **Jan 2026:** Submitted survey paper "Exploring Agentic Multimodal Large Language Models: A Survey for AIScientists" to ACL 2026.
-- **Aug 2025:** Started PhD at Scripps Research, [Forli Lab](https://forlilab.org/).
 - **Dec 2025:** Tutorial on "Human-AI Co-Discovery" submitted to ACL 2026.
 - **Dec 2025:** Survey paper "Exploring Agentic Multimodal LLMs for AI Scientists" published on [TechRxiv](https://doi.org/10.36227/techrxiv.176344216.60619335/v1).
-- **Aug 2025:** Started rotating in the [Forli Lab](https://forlilab.org/), exploring computational approaches for drug discovery.
-- **May 2025:** Graduated from UIUC with MS in Information Sciences.
 - **Oct 2025:** Selected for the three-year **Kellogg Fellowship** at Scripps Research. [See here](https://www.linkedin.com/posts/activity-7386838762279899136-0BdF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADCfYmIBH2t6dDKhIhtu5LzkKEVqi2J8sos).
+- **Aug 2025:** Started PhD at Scripps Research, [Forli Lab](https://forlilab.org/).
+- **May 2025:** Graduated from UIUC with MS in Information Sciences.
 - **Nov 2024:** Two papers accepted to IEEE BigData 2024, including one as first author.
 
 ### Research Interests
