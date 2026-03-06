@@ -11,7 +11,29 @@ redirect_from:
 
 Hi there! I'm Jinglin Jian (简靖琳), a PhD student at [Scripps Research](https://www.scripps.edu/) by the beautiful ocean 🏖️ at San Diego, CA. I'm deeply grateful to be supported by the **Kellogg Fellowship**, a three-year endowed award generously funded by the Kellogg family and The ALSAM Foundation.
 
-I received my master's degree from the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), where I had the opportunity to work closely with Professor [Qingyun Wang](https://eaglew.github.io/), Professor [Haohan Wang](https://haohanwang.github.io/), and Professor [Ge Liu](https://www.mit.edu/~geliu/). Previously, I studied B.S. in Computer Science and Education at [Beijing Normal University](https://english.bnu.edu.cn/), with a dual B.Econ. degree in Economics from [Peking University](https://english.pku.edu.cn/). I have a general interest in how people learn<sup><span style="color:gray;cursor:default;" title="How People Learn: Brain, Mind, Experience, and School (National Research Council, 2000)">[1]</span></sup> and how computers transform human thinking<sup><span style="color:gray;cursor:default;" title="Seymour Papert, Mindstorms: Children, Computers, And Powerful Ideas (1980)">[2]</span></sup>.
+I received my master's degree from the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), where I had the opportunity to work closely with Professor [Qingyun Wang](https://eaglew.github.io/), Professor [Haohan Wang](https://haohanwang.github.io/), and Professor [Ge Liu](https://www.mit.edu/~geliu/). Previously, I studied B.S. in Computer Science and Education at [Beijing Normal University](https://english.bnu.edu.cn/), with a dual B.Econ. degree in Economics from [Peking University](https://english.pku.edu.cn/). I have a general interest in how people learn<sup><span class="fn-tooltip" data-tooltip="How People Learn: Brain, Mind, Experience, and School (National Research Council, 2000)">[1]</span></sup> and how computers transform human thinking<sup><span class="fn-tooltip" data-tooltip="Seymour Papert, Mindstorms: Children, Computers, And Powerful Ideas (1980)">[2]</span></sup>.
+
+<style>
+.fn-tooltip {
+  color: gray;
+  position: relative;
+  cursor: default;
+}
+.fn-tooltip:hover::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: 120%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #333;
+  color: #fff;
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  white-space: nowrap;
+  z-index: 10;
+}
+</style>
 
 I'm also the founder of the [AI × Science Club](https://jianjinglin.github.io/ai-science-club/), a student-led local community exploring how AI is reshaping scientific discovery. We're still growing and building things out, so if this sounds interesting to you, come [join us on Slack](https://join.slack.com/t/aixsciencescripps/shared_invite/zt-3qjv2adua-lZEc7j_qIRF8878PrSdi4Q) — we'd love to have you!
 
