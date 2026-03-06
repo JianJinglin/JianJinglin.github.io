@@ -11,9 +11,11 @@ redirect_from:
 
 Hi there! I'm Jinglin Jian (简靖琳), a PhD student at [Scripps Research](https://www.scripps.edu/) by the beautiful ocean 🏖️ at San Diego, CA. I'm deeply grateful to be supported by the **Kellogg Fellowship**, a three-year endowed award generously funded by the Kellogg family and The ALSAM Foundation.
 
-I received my master's degree from the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), where I had the opportunity to work closely with Professor [Qingyun Wang](https://eaglew.github.io/), Professor [Haohan Wang](https://haohanwang.github.io/), and Professor [Ge Liu](https://www.mit.edu/~geliu/). Previously, I studied at [Beijing Normal University](https://english.bnu.edu.cn/), with a dual B.Econ. degree in **Economics** from [Peking University](https://english.pku.edu.cn/).
+I received my master's degree from the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), where I had the opportunity to work closely with Professor [Qingyun Wang](https://eaglew.github.io/), Professor [Haohan Wang](https://haohanwang.github.io/), and Professor [Ge Liu](https://www.mit.edu/~geliu/). Previously, I studied B.S. in Computer Science and Education at [Beijing Normal University](https://english.bnu.edu.cn/), with a dual B.Econ. degree in Economics from [Peking University](https://english.pku.edu.cn/). I have a general interest in how people learn and how computers transform human thinking.<sup style="color:gray;font-size:smaller;">[1][2]</sup>
 
-I'm also the founder of the [AI × Science Club](https://jianjinglin.github.io/ai-science-club/) at Scripps Research, a student-led community exploring how AI is reshaping scientific discovery. We're still growing and building things out, so if this sounds interesting to you, come [join us on Slack](https://join.slack.com/t/aixsciencescripps/shared_invite/zt-3qjv2adua-lZEc7j_qIRF8878PrSdi4Q) — we'd love to have you!
+<span style="color:gray;font-size:smaller;">[1] *How People Learn: Brain, Mind, Experience, and School* (National Research Council, 2000).<br>[2] Seymour Papert, *Mindstorms: Children, Computers, And Powerful Ideas* (1980).</span>
+
+I'm also the founder of the [AI × Science Club](https://jianjinglin.github.io/ai-science-club/), a student-led local community exploring how AI is reshaping scientific discovery. We're still growing and building things out, so if this sounds interesting to you, come [join us on Slack](https://join.slack.com/t/aixsciencescripps/shared_invite/zt-3qjv2adua-lZEc7j_qIRF8878PrSdi4Q) — we'd love to have you!
 
 ### News
 
@@ -28,7 +30,7 @@ I'm also the founder of the [AI × Science Club](https://jianjinglin.github.io/a
 
 ### Research Interests
 
-I am broadly interested in AI for Science, machine learning for biology, and natural language processing.
+I am broadly interested in AI for Science.
 
 **RI1. Generative Models for BioMedicine.**
 Developing generative models for biomedical applications. Currently learning diffusion models and flow matching, and working with different architectures on antibody sequence data.
