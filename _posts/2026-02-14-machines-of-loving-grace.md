@@ -71,13 +71,11 @@ Dario 在那时候定义了他心中的 "Powerful AI"：它不只是一个你对
 
 作为一个每天用 AI做科研的人，我感觉是：我们可能正站在 21 世纪人类历史上最激动人心的时刻 🌅
 
-明天我来更新，Dario 怎么看待 AI 将如何改变生命与健康？为什么他称呼「 21 世纪人类将把 50-100 年的科研进程浓缩到 5-10 年 」？
-
 ---
 
 *原文链接: [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace) — Dario Amodei, October 2024*
 
----
+<img src="/images/machines-of-loving-grace.jpg" alt="Machines of Loving Grace" style="max-width:100%; border-radius:8px; margin-top:2em; margin-bottom:2em;">
 
 ## English Translation
 
@@ -141,10 +139,6 @@ Taking all of these factors and frameworks into account, Dario goes on to offer 
 
 As someone who uses AI for research every day, here's how I feel: we may be standing at the most exhilarating moment in the history of the 21st century. 🌅
 
-Next up: How does Dario see AI transforming biology and health? And why does he say that "humanity will compress 50–100 years of scientific progress into just 5–10 years"?
-
 ---
 
 *Original essay: [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace) — Dario Amodei, October 2024*
-
-<img src="/images/machines-of-loving-grace.jpg" alt="Machines of Loving Grace" style="max-width:100%; border-radius:8px; margin-top:2em;">
