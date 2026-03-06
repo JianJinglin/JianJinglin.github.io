@@ -6,8 +6,6 @@ tags: [AI, reading-notes, essays, drug-discovery]
 category: essays
 ---
 
-<img src="/images/machines-of-loving-grace.jpg" alt="Machines of Loving Grace" style="max-width:100%; border-radius:8px; margin-bottom:1.5em;">
-
 > *Machines of Loving Grace — Dario Amodei*
 > *How AI Could Transform the World for the Better*
 > *充满爱的机器：AI如何让世界变得更好*
@@ -78,3 +76,75 @@ Dario 在那时候定义了他心中的 "Powerful AI"：它不只是一个你对
 ---
 
 *原文链接: [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace) — Dario Amodei, October 2024*
+
+---
+
+## English Translation
+
+*Translated by Claude*
+
+I recently came across an essay that took me a long time to finish: a sprawling, ten-thousand-word piece written in 2024 by Dario Amodei, the founder of Claude:
+
+**"Machines of Loving Grace"**
+
+How AI Could Transform the World for the Better.
+In a moment, you'll understand why reading this essay at the start of 2026 feels so staggering.
+
+### I. What This Essay Represents
+
+The author, **Dario Amodei**, is the CEO of Anthropic and the creator of Claude. What surprised me even more is that he holds a PhD in biophysics. Having gone through rigorous training in biochemistry research, while now standing at "the center of the universe — Anthropic" to work on AI, his reflections on both AI and science are truly worth reading carefully.
+
+He opens with this:
+
+> "I think that most people are underestimating just how radical the upside of AI could be, just as I think most people are underestimating how bad the risks could be."
+
+Most people simultaneously underestimate how radical the benefits of AI could be and how severe the risks are. We'll save the discussion of risks for another time — but seeing the upside of AI through the eyes of someone with rigorous scientific training can certainly spark some thinking about the future.
+
+---
+
+### II. What Does Powerful AI Look Like? It's Already Our Present.
+
+Back then, Dario defined his vision of "Powerful AI": it's not just a clever chatbot you talk to — it can autonomously execute tasks lasting hours or even weeks, control devices, search the internet, design experiments, and even guide humans. Powerful AI is like a super-employee. And you can run millions of agents simultaneously, at 10 to 100 times human speed.
+
+When I read this, I was genuinely stunned — because this isn't the future. This is our present. You've probably all heard about **Claude Code (CC)** going viral in the first week of 2026, looking like it's about to replace countless software engineers. Wall Street investors responded by repricing software companies through a month-long stock decline. Then came the explosion of **OpenClaw**, which became a tireless super-employee — "working while I'm awake, working while I'm asleep."
+
+I have an AI assistant like this too, named **David**. He runs on the Mac Mini at the foot of my bed. He's read every project I've ever worked on, tracks the latest papers for me every day, connects new papers to my previous research directions, offers fresh research ideas, and has even started doing research on my behalf. Honestly, he's better than me now.
+
+---
+
+### III. If AI Is So Powerful, What *Can't* It Do?
+
+As I often wonder myself: what if we use AI to do research? What if we put many AIs together? Of course, there are many specific, complex questions here. Hundreds of AIs smarter than humans, working in parallel, collaborating with each other — what would that produce? We'll get to that later, but Dario first asks another question: what constrains AI?
+
+> "Intelligence may be very powerful, but it isn't magic fairy dust."
+
+He identifies these as the limits that AI cannot transcend no matter how intelligent it becomes:
+
+- **⏱️ The speed of the external world** — cell growth can't be sped up; hardware manufacturing takes time.
+- **📊 Data scarcity** — particle physicists have countless theories, but particle accelerator data is far too limited.
+- **🌀 Intrinsic complexity** — some systems are inherently chaotic (the three-body problem).
+- **👦 Human limitations** — AI must align with human goals, but fear amplifies regulation.
+- **⚖️ The laws of physics** — you can't unstir a pudding.
+- **⌛ And time** — the human world moves forward slowly.
+
+---
+
+### Closing Thoughts & Preview
+
+Taking all of these factors and frameworks into account, Dario goes on to offer deep analysis across five domains:
+
+- 🧬 Biology and health
+- 🧠 Neuroscience, the brain, and mental health
+- 💰 Economic development and poverty
+- 🕊️ Peace and governance
+- 🎨 Work and the meaning of life
+
+As someone who uses AI for research every day, here's how I feel: we may be standing at the most exhilarating moment in the history of the 21st century. 🌅
+
+Next up: How does Dario see AI transforming biology and health? And why does he say that "humanity will compress 50–100 years of scientific progress into just 5–10 years"?
+
+---
+
+*Original essay: [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace) — Dario Amodei, October 2024*
+
+<img src="/images/machines-of-loving-grace.jpg" alt="Machines of Loving Grace" style="max-width:100%; border-radius:8px; margin-top:2em;">
