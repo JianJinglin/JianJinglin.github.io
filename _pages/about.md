@@ -15,23 +15,47 @@ I received my master's degree from the [School of Information Sciences](https://
 
 <style>
 .fn-tooltip {
-  color: gray;
+  color: #999;
   position: relative;
   cursor: default;
+  font-size: 0.75em;
 }
 .fn-tooltip:hover::after {
   content: attr(data-tooltip);
   position: absolute;
-  bottom: 120%;
+  bottom: calc(100% + 10px);
   left: 50%;
   transform: translateX(-50%);
-  background: #333;
-  color: #fff;
-  padding: 6px 10px;
-  border-radius: 4px;
-  font-size: 12px;
+  background: #fdf8f0;
+  color: #4a3728;
+  padding: 10px 14px;
+  border-radius: 3px;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 11.5px;
+  font-style: italic;
+  line-height: 1.5;
   white-space: nowrap;
   z-index: 10;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08), 0 0 0 1px rgba(0,0,0,0.04);
+  opacity: 1;
+  animation: fn-fade 0.25s ease;
+  pointer-events: none;
+}
+.fn-tooltip:hover::before {
+  content: '';
+  position: absolute;
+  bottom: calc(100% + 4px);
+  left: 50%;
+  transform: translateX(-50%);
+  border: 5px solid transparent;
+  border-top-color: #fdf8f0;
+  z-index: 11;
+  animation: fn-fade 0.25s ease;
+  pointer-events: none;
+}
+@keyframes fn-fade {
+  from { opacity: 0; transform: translateX(-50%) translateY(4px); }
+  to { opacity: 1; transform: translateX(-50%) translateY(0); }
 }
 </style>
 
