@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Some reading notes, reflections, and ramblings.
+Reading notes.
 
 ---
 
