@@ -11,7 +11,9 @@ redirect_from:
 
 Hi there! I'm Jinglin Jian (简靖琳), a PhD student at [Scripps Research](https://www.scripps.edu/) by the beautiful ocean 🏖️ at San Diego, CA. I'm deeply grateful to be supported by the **Kellogg Fellowship**, a three-year endowed award generously funded by the Kellogg family and The ALSAM Foundation.
 
-I received my master's degree from the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), where I had the opportunity to work closely with Professor [Qingyun Wang](https://eaglew.github.io/), Professor [Haohan Wang](https://haohanwang.github.io/), and Professor [Ge Liu](https://www.mit.edu/~geliu/). Previously, I studied B.S. in Computer Science and Education at [Beijing Normal University](https://english.bnu.edu.cn/), with a dual B.Econ. degree in Economics from [Peking University](https://english.pku.edu.cn/). I have a general interest in how people learn<sup><span class="fn-tooltip" data-tooltip="How People Learn: Brain, Mind, Experience, and School (National Research Council, 2000)">[1]</span></sup> and how computers transform human thinking<sup><span class="fn-tooltip" data-tooltip="Seymour Papert, Mindstorms: Children, Computers, And Powerful Ideas (1980)">[2]</span></sup>.
+I received my master's degree from the [School of Information Sciences](https://ischool.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/), where I had the opportunity to work closely with Professor [Ge Liu](https://www.mit.edu/~geliu/) and Professor [Qingyun Wang](https://eaglew.github.io/).
+
+<!-- Previously, I studied B.S. in Computer Science and Education at [Beijing Normal University](https://english.bnu.edu.cn/), with a dual B.Econ. degree in Economics from [Peking University](https://english.pku.edu.cn/). I have a general interest in how people learn<sup><span class="fn-tooltip" data-tooltip="How People Learn: Brain, Mind, Experience, and School (National Research Council, 2000)">[1]</span></sup> and how computers transform human thinking<sup><span class="fn-tooltip" data-tooltip="Seymour Papert, Mindstorms: Children, Computers, And Powerful Ideas (1980)">[2]</span></sup>. -->
 
 <style>
 .fn-tooltip {
@@ -74,13 +76,7 @@ I'm also the founder of the [AI × Science Club](https://jianjinglin.github.io/a
 
 ### Research Interests
 
-I am broadly interested in AI for Science.
-
-**RI1. Generative Models for BioMedicine.**
-Developing generative models for biomedical applications. Currently learning diffusion models and flow matching, and working with different architectures on antibody sequence data.
-
-**RI2. Agentic Multimodal Large Language Models for Scientific Discovery.**
-Recently working on Agentic AI Scientist for different biomedical discovery processes.
+I am mainly interested in pretraining models on molecular dynamics data (3D with time series) and protein sequence data (3D static data).
 
 <style>
 table, td, th, tr {
