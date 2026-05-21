@@ -86,16 +86,6 @@ table, td, th, tr {
 
 <h2><span>Publications and Conferences</span></h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Preparation</div><img src='/images/jian2026npj-1.png' alt="jian2026npj" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<h3>The AI Scientist in Health: Potential, Challenges, and the Road Ahead</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;">Advised by Prof. Qingyun Wang (William & Mary) and Prof. Qingyu Chen (Yale)</span>
-<br>
-<br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">A paper discussing the potential, challenges, and future direction of AI Scientists in health systems.</em>
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BPS 2026</div><img src='/images/2026bps-ppk2a.png' alt="2026bps" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>Allosterically Inhibiting Pseudomonas aeruginosa's Polyphosphate Kinase 2A by Disrupting Its Oligomerization</h3>
@@ -107,15 +97,15 @@ table, td, th, tr {
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Submission</div><img src='/images/wang2026co-discovery.png' alt="ACL2026tutorial" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tutorial</div><img src='/images/wang2026co-discovery.png' alt="human-ai-co-discovery-tutorial" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>Tutorial: Human-AI Co-Discovery</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;"> Qingyun Wang, Wenpeng Yin, Lifu Huang, Yi R. (May) Fung, <b>Jinglin Jian</b>, Xuehang Guo, Ruochen Li</span>
 <br>
 <br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">This tutorial is currently under submission to ACL 2026.</em>
+<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">A tutorial on Human-AI Co-Discovery.</em>
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2025</div><img src='/images/jian2025survey.png' alt="jian2025survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
