@@ -19,7 +19,6 @@ author_profile: true
 
 - **Tutorial: Human-AI Co-Discovery.**
   Qingyun Wang, Wenpeng Yin, Lifu Huang, Yi R. (May) Fung, **Jinglin Jian**, Xuehang Guo, Ruochen Li.
-  *Submitted to ACL 2026.*
 
 ## Conference Proceedings
 
@@ -41,8 +40,3 @@ author_profile: true
   Ruibo Hou, Dian Zhou, **Jinglin Jian**, Ge Liu.
   *UIUC ML for Bioinformatics Workshop.*
   [[Paper]](https://openreview.net/pdf?id=B1Ok8gBHfh)
-
-## In Preparation
-
-- **The AI Scientist in Health: Potential, Challenges, and the Road Ahead.**
-  Advised by Prof. Qingyun Wang (William & Mary) and Prof. Qingyu Chen (Yale).
