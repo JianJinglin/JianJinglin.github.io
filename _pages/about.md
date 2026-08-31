@@ -86,7 +86,7 @@ table, td, th, tr {
 
 <h2><span>Publications and Conferences</span></h2>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BPS 2026</div><img src='/images/2026bps-ppk2a.png' alt="2026bps" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing</div><img src='/images/2026bps-ppk2a.png' alt="Ppk2A virtual-screening project" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <h3>Allosterically Inhibiting Pseudomonas aeruginosa's Polyphosphate Kinase 2A by Disrupting Its Oligomerization</h3>
 <span style="font-family: Georgia, serif; font-size: smaller;">Constanza Torres-Paris, Madeline G. Ammend, Joseph Agha, <b>Jinglin Jian</b>, Matthew Holcomb, Stefano Forli, Lisa R. Racki</span>

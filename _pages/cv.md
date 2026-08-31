@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 [Download CV here](https://JianJinglin.github.io/files/cv.pdf)
-(Updated on 01/11/2026).
+(Updated on 08/31/2026).
 
 
 <!-- 
