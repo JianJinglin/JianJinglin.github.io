@@ -3,6 +3,7 @@ layout: archive
 title: "Misc"
 permalink: /essays/
 author_profile: true
+published: false
 ---
 
 {% include base_path %}

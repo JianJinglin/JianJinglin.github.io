@@ -5,17 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Ongoing
+
+- **Compute-Optimal Scaling Laws for a Data-Constrained Protein Language Model.**
+  **Jinglin Jian**, Zefan Cai, ..., Stefano Forli, Bryan Briney.
+  *Ongoing*, 2026.
+
+- **Science Earth: Towards A Planet-Scale Operating System for AI-Native Scientific Discovery.**
+  Zhe Zhao, Haibin Wen, Yingcheng Wu, Jiaming Ma, Yifan Wen, **Jinglin Jian**, Jiacheng Ge, Xiangru Tang, Bo An, Ming Yin, Sanfeng Wu, Mengdi Wang, Le Cong.
+  *Ongoing*, 2026.
+  [[arXiv record]](https://arxiv.org/abs/2606.01316)
+
+- **Allosterically Inhibiting Pseudomonas aeruginosa's Polyphosphate Kinase 2A by Disrupting Its Oligomerization.**
+  Constanza Torres-Paris, Madeline G. Ammend, Joseph Agha, **Jinglin Jian**, Matthew Holcomb, Stefano Forli, Lisa R. Racki.
+  *Ongoing*, 2026.
+
 ## Preprints
 
 - **From Protocols to Policies: A Long-Horizon Manipulation Benchmark from Scientific Workflows.**
   Wenbo Lu, **Jinglin Jian**, Xi Wang, Yingcheng Wu, Luna Lyu, Shenji Wan, Le Cong.
   *Under review by NeurIPS*, 2026.
-  [[Paper]](https://openreview.net/forum?id=W1jdBZWTK6)
-
-- **Science Earth: Towards A Planet-Scale Operating System for AI-Native Scientific Discovery.**
-  Zhe Zhao, Haibin Wen, Yingcheng Wu, Jiaming Ma, Yifan Wen, **Jinglin Jian**, Jiacheng Ge, Xiangru Tang, Bo An, Ming Yin, Sanfeng Wu, Mengdi Wang, Le Cong.
-  *Ongoing; arXiv preprint arXiv:2606.01316*, 2026.
-  [[Paper]](https://arxiv.org/abs/2606.01316)
 
 - **Exploring Agentic Multimodal Large Language Models: A Survey for AI Scientists.**
   **Jinglin Jian**, Yi R. Fung, Denghui Zhang, Yiqian Liang, Qingyu Chen, Zhiyong Lu, Qingyun Wang.
@@ -31,10 +40,6 @@ author_profile: true
   Qingyun Wang, Wenpeng Yin, Lifu Huang, Yi R. (May) Fung, **Jinglin Jian**, Xuehang Guo, Ruochen Li.
 
 ## Conference Proceedings
-
-- **Allosterically Inhibiting Pseudomonas aeruginosa's Polyphosphate Kinase 2A by Disrupting Its Oligomerization.**
-  Constanza Torres-Paris, Madeline G. Ammend, Joseph Agha, **Jinglin Jian**, Matthew Holcomb, Stefano Forli, Lisa R. Racki.
-  *Ongoing*.
 
 - **Big Data-Driven Computational Aptamer Design Framework via Parallel Monte Carlo Tree Search.**
   **Jinglin Jian**, Zhiheng Jiao, Zihan Li, Jin Chen.

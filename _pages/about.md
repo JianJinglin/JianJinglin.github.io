@@ -75,7 +75,7 @@ I'm also the founder of the [AI × Science Club](https://jianjinglin.github.io/a
 
 ### Research Interests
 
-I am mainly interested in pretraining models on molecular dynamics data (3D with time series) and protein sequence data (3D static data).
+I am broadly curious about how pretraining can learn transferable scientific representations across multiple modalities, including protein sequences, molecular structures, molecular dynamics trajectories, and scientific text.
 
 <style>
 table, td, th, tr {
@@ -159,29 +159,5 @@ table, td, th, tr {
 <a href='https://arxiv.org/abs/2402.12391'><button class="paper-btn">Paper</button></a>
 <br>
 <em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">ML can discover disease-predictive genes from gene expression data. We introduced the Team of AI-made Scientists (TAIS), a LLM-based framework for automatic streamlining ML analysis. TAIS consists of simulated roles, including a project manager, data engineer, and domain expert.</em>
-</div>
-</div>
-
-<h2><span>Selected Projects</span></h2>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Research Assistant</div><img src='/images/2020hypervideo.png' alt="2020hypervideo" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<h3>The Impact of Productive Failure on Learning Performance and Cognitive Load: Using Hypervideo to Facilitate Online Interactions</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;">Xiaojie Niu, Jingjing Zhang, Kate M. Xu, Xuan Wang</span>
-<br>
-<a href='https://ieeexplore.ieee.org/document/9499919'><button class="paper-btn">Paper</button></a> 
-<br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">Productive failure is an instructional approach that uses students' cognitive conflicts to enhance their learning. This experimental study investigated the effect of productive failure in a hypervideo environment.</em>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bachelor's Thesis</div><img src='/images/2021eduKG.png' alt="2021eduKG" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<h3>Semi-automatic Knowledge Graph Construction</h3>
-<span style="font-family: Georgia, serif; font-size: smaller;">Jinglin Jian (Advisor: Prof. Qinhua Zheng)</span>
-<br>
-<a href='https://JianJinglin.github.io/files/2021eduKG.pdf'><button class="paper-btn">Paper (in Chinese)</button></a>
-<br>
-<em style="font-family: 'Times New Roman', Times, serif; font-size: smaller;">An interactive system was designed and implemented, enabling domain experts to collaborate with AI models to create educational knowledge graphs (KG) from unstructured text (i.e. lecture transcripts).</em>
 </div>
 </div>
