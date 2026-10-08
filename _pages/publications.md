@@ -7,15 +7,6 @@ author_profile: true
 
 ## Ongoing
 
-- **Compute-Optimal Scaling Laws for a Data-Constrained Protein Language Model.**
-  **Jinglin Jian**, Zefan Cai, ..., Stefano Forli, Bryan Briney.
-  *Ongoing*, 2026.
-
-- **Science Earth: Towards A Planet-Scale Operating System for AI-Native Scientific Discovery.**
-  Zhe Zhao, Haibin Wen, Yingcheng Wu, Jiaming Ma, Yifan Wen, **Jinglin Jian**, Jiacheng Ge, Xiangru Tang, Bo An, Ming Yin, Sanfeng Wu, Mengdi Wang, Le Cong.
-  *Ongoing*, 2026.
-  [[arXiv record]](https://arxiv.org/abs/2606.01316)
-
 - **Allosterically Inhibiting Pseudomonas aeruginosa's Polyphosphate Kinase 2A by Disrupting Its Oligomerization.**
   Constanza Torres-Paris, Madeline G. Ammend, Joseph Agha, **Jinglin Jian**, Matthew Holcomb, Stefano Forli, Lisa R. Racki.
   *Ongoing*, 2026.
